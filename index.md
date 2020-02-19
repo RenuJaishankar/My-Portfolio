@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [My Website about flowers](/sample_page)
-<img src="/images/flower.png"/>
+<img src="images/flower.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
