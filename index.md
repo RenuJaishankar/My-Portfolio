@@ -16,6 +16,8 @@ https://codepen.io/RenuJaishankar
 [Flower Website](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[Flower Website](https://renujaishankar.github.io/Feb7thhostedRepo/)
+<img src="images/flower.png"/>
 ---
 
 ### Category Name 2
