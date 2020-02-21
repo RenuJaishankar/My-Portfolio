@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[My Website about flowers](/sample_page)
+[Recommendation system.(/sample_page)
 <img src="images/flower.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[HTML,CSS and Javscript project](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Flower Website](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
