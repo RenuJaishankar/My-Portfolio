@@ -1,6 +1,15 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** •	Completed Duke Certification on Java Programming and Software Engineering Fundamentals. This certification include 5 core courses that covered HTML, CSS, JavaScript and Core Java.
+•	As part of this course Completed a Capstone project that included Building a Movie Recommendation Engine (like Netflix has!)
+•	Key features of this Recommendation Engine is highlighted below.
+o	Accept movie and rating from Tweets, from twitter feed using Movie Tweetings Data set.
+o	Used Apache CSV Project to access data.
+o	Compute Average Movie rating for each movie.
+o	Gathered additional details on the movie from Movie database.
+o	Stored additional details on “Hash Map” so it can be accessed faster.
+o	Accept rating from the current user and compute how similar a given rater is to another user based on his/her ratings. 
+
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 

@@ -8,7 +8,8 @@
 <img src="images/flower.png"/>
 
 ---
-[HTML,CSS and Javscript project](/pdf/sample_presentation.pdf)
+[HTML,CSS and Javscript project](https://codepen.io/RenuJaishankar)
+<!-- [HTML,CSS and Javscript project](/pdf/sample_presentation.pdf) -->
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 https://codepen.io/RenuJaishankar
 ---
