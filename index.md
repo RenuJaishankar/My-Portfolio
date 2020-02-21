@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Recommendation system.(/sample_page)
+[Recommendation system.(/sample_pag.md)
 <img src="images/flower.png"/>
 
 ---
