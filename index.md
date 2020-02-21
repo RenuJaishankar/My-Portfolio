@@ -10,7 +10,7 @@
 ---
 [HTML,CSS and Javscript project](https://codepen.io/RenuJaishankar)
 <!-- [HTML,CSS and Javscript project](/pdf/sample_presentation.pdf) -->
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/codepen_project.png"/>
 https://codepen.io/RenuJaishankar
 ---
 [Flower Website](http://example.com/)
