@@ -15,11 +15,8 @@ o	Accept rating from the current user and compute how similar a given rater is t
 
 <img src="images/recommendation_picture.png"/>
 
+[The recommendation project link.](http://www.dukelearntoprogram.com/capstone/recommender.php?id=sNcezFq6EMAOua)  
 
-
-### 1. The recommendation project link.
-
-(http://www.dukelearntoprogram.com/capstone/recommender.php?id=sNcezFq6EMAOua)  
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

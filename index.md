@@ -16,12 +16,16 @@
 [My codepen website](https://codepen.io/RenuJaishankar)
 <img src="images/codepen_project_1.png">
 
-[Flower Website](https://renujaishankar.github.io/Feb7thhostedRepo/)
-<img src="images/flower.png"/>
+<!-- [Flower Website](https://renujaishankar.github.io/Feb7thhostedRepo/) -->
+<!-- <img src="images/flower.png"/> -->
 ---
 
 ### Category Name 2
+[Flower Website](/sample_flowerpage.md) 
+<img src="images/flower.png"/>
 
+[Tree Website](/sample_treepage.md)
+<img src="images/treewebsite.png"/>
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
