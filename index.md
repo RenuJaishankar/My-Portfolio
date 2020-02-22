@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Recommendation system](/sample_page.md) (http://www.dukelearntoprogram.com/capstone/recommender.php?id=sNcezFq6EMAOua)  
+[Recommendation system](/sample_page.md)  
 <img src="images/recommendation_picture"/>
 
 ---
