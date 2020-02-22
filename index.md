@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Recommendation system](/sample_page.md)  
-<img src="images/recommendation_picture"/>
+<img src="images/recommendation_picture.png"/>
 
 ---
 [HTML,CSS and Javscript project](https://codepen.io/RenuJaishankar/post/renu-s-blog-for-course-1-project)
