@@ -4,16 +4,16 @@
 
 <!-- ### Category Name 1  -->
 
-[**Recommendation system**](/sample_page.md)  
+[Recommendation system](/sample_page.md)  
 <img src="images/recommendation_picture.png"/>
 
 ---
-[**HTML,CSS and Javscript project**](https://codepen.io/RenuJaishankar/post/renu-s-blog-for-course-1-project)
+[HTML,CSS and Javscript project](https://codepen.io/RenuJaishankar/post/renu-s-blog-for-course-1-project)
 <!-- [HTML,CSS and Javscript project](/pdf/sample_presentation.pdf) -->
 <img src="images/codepen_project_1.png"/>
 
 ---
-[**My codepen website**](https://codepen.io/RenuJaishankar)
+[My codepen website](https://codepen.io/RenuJaishankar)
 <img src="images/codepen_project_1.png">
 
 <!-- [Flower Website](https://renujaishankar.github.io/Feb7thhostedRepo/) -->
@@ -22,13 +22,13 @@
 ---
 
 <!-- ### Category Name 2 -->
-[**Flower Website**](/sample_flowerpage.md) 
+[Flower Website](/sample_flowerpage.md) 
 <img src="images/flower.png"/>
 
-[**Tree Website**](/sample_tree.md)
+[Tree Website](/sample_tree.md)
 <img src="images/treewebsite.png"/>
 
-[**Fruit and Veggie Website**](/samplefullstack.md)
+[Fruit and Veggie Website](/samplefullstack.md)
 <img src="images/FruitVeggiewebsite.png"/>
 <!-- - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
