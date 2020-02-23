@@ -24,9 +24,12 @@
 [Flower Website](/sample_flowerpage.md) 
 <img src="images/flower.png"/>
 
-[Tree Website](/sample_treepage.md)
+[Tree Website](/sample_tree.md)
 <img src="images/treewebsite.png"/>
-- [Project 1 Title](http://example.com/)
+
+[Fruit and Veggie Website.](/samplefullstack.md)
+<img src="images/FruitVeggiewebsite.png"/>
+<!-- - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -35,7 +38,7 @@
 ---
 
 
-
+ -->
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
