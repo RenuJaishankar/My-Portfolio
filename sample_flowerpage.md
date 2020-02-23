@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+<!-- ## This can be your internal website page / project page -->
 
 **Project description:** •	
 
@@ -14,5 +14,5 @@ This Website is about Flowers
 --This website is tested for accessability and usabilty.
 
 
-[Flower Website](https://renujaishankar.github.io/Feb4thRepository/#) 
+[Flower website link](https://renujaishankar.github.io/Feb4thRepository/#) 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

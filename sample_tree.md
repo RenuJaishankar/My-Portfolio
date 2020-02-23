@@ -1,6 +1,5 @@
 
 **Project description:** •	
-
 ##This Website is about Trees.
 
 -- This website is created with Bootstrap.
@@ -13,8 +12,6 @@
 
 -- Styled keeping green has the main color of the website 
 
---This website is tested for accessability and usabilty.
+[Tree page link](https://renujaishankar.github.io/Jan29thRepository/)
 
-
-[Tree Website](https://renujaishankar.github.io/Jan29thRepo/.) 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

@@ -18,7 +18,9 @@
 
 --Best veggie of the month Click here button will take you to best veggie of the month.
 
-[FRUIT AND VEGGIE PAGE LINK](C:\Users\renuj\Documents\Renu\My-Portfolio\images\FruitVeggiewebsite.png)
+-- Best fruit of the month Click here button will take you to best fruit of the month.
+
+[FRUIT AND VEGGIE PAGE LINK](https://renujaishankar.github.io/Feb11thFrontEndRepository/)
 
 ## This is all about how to start with running the application starting from the backend.
 -- In the backend directory.We have to give npm init
@@ -34,7 +36,7 @@ and then give Heroku create.
 --git push -u origin master to push to github
 
 
--- Best fruit of the month Click here button will take you to best fruit of the month.
+
 
 
 
