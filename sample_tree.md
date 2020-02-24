@@ -2,6 +2,9 @@
 **Project description:** •	
 ##This Website is about Trees.
 
+[Tree page link](https://renujaishankar.github.io/Jan29thRepository/)
+
+
 -- This website is created with Bootstrap.
 
 -- Navbar is added
@@ -12,6 +15,5 @@
 
 -- Styled keeping green has the main color of the website 
 
-[Tree page link](https://renujaishankar.github.io/Jan29thRepository/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

@@ -13,9 +13,11 @@ o	Gathered additional details on the movie from Movie database.
 o	Stored additional details on “Hash Map” so it can be accessed faster.
 o	Accept rating from the current user and compute how similar a given rater is to another user based on his/her ratings. 
 
+[The recommendation project link.](http://www.dukelearntoprogram.com/capstone/recommender.php?id=sNcezFq6EMAOua)  
+
 <img src="images/recommendation_picture.png"/>
 
-[The recommendation project link.](http://www.dukelearntoprogram.com/capstone/recommender.php?id=sNcezFq6EMAOua)  
+
 
 
 

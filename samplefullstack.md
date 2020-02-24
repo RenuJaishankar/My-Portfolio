@@ -2,6 +2,9 @@
 **Project description:** •	
 
 ## This is all about My Fruit and Veggie Website front end.
+
+[FRUIT AND VEGGIE PAGE LINK](https://renujaishankar.github.io/Feb11thFrontEndRepository/)
+
 --The different links in the Navbar will take it to different pages.
 
 --Press me to see the Apples button if pressed Will give the name and type of apples.
@@ -20,7 +23,7 @@
 
 -- Best fruit of the month Click here button will take you to best fruit of the month.
 
-[FRUIT AND VEGGIE PAGE LINK](https://renujaishankar.github.io/Feb11thFrontEndRepository/)
+
 
 ## This is all about how to start with running the application starting from the backend.
 -- In the backend directory.We have to give npm init
