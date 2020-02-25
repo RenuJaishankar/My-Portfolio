@@ -1,6 +1,6 @@
 
 **Project description:** •	
-##This Website is about Trees.
+This Website is about Trees.
 
 [Tree page link](https://renujaishankar.github.io/Jan29thRepository/)
 
