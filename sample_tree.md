@@ -2,7 +2,7 @@
 **Project description:** •	
 This Website is about Trees.
 
-[Tree page link](https://renujaishankar.github.io/Jan29thRepository/)
+[Tree page link](https://renujaishankar.github.io/treeRepo/)
 
 
 -- This website is created with Bootstrap.
