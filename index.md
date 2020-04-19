@@ -26,13 +26,17 @@
 [Donut website with Spring and REST](/sample_donut.md)
 <img src="images/donutapi.png">
 ---
+
+[GraphQL Project with various models ,React and Gatsby](/sample_models.md)
+<img src="images/Fruitmodel.png">
+---
 [Flower Website](/sample_flowerpage.md) 
 <img src="images/flower.png"/>
 ---
 [Tree Website](/sample_tree.md)
 <img src="images/treewebsite.png"/>
 ---
-[Fruit and Veggie Website](/samplefullstack.md)
+[Full Stack Website](/samplefullstack.md)
 <img src="images/FruitVeggiewebsite.png"/>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
