@@ -20,7 +20,8 @@
 <!-- <img src="images/flower.png"/> -->
  <!-- # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>  -->
 ---
-
+[Blog Website](/sample_blogpage.md)
+<img src="blogmain.png">
 <!-- ### Category Name 2 -->
 [Flower Website](/sample_flowerpage.md) 
 <img src="images/flower.png"/>

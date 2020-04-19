@@ -3,7 +3,7 @@
 
 ## This is all about My Fruit and Veggie Website front end.
 
-[FRUIT AND VEGGIE PAGE LINK](https://renujaishankar.github.io/Feb11thFrontEndRepository/)
+[FULL STACK PAGE DONE WITH REST API LINK](https://renujaishankar.github.io/Feb11thFrontEndRepository/)
 
 --The different links in the Navbar will take it to different pages.
 
